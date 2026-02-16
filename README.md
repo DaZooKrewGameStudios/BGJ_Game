@@ -1,5 +1,6 @@
-# TemplatePotato
+# Brackeys Game Jam - Abandone Island Themepark
 
 [![UE5 Windows Build](https://github.com/DaZooKrewGameStudios/TemplatePotato/actions/workflows/main.yml/badge.svg)](https://github.com/DaZooKrewGameStudios/TemplatePotato/actions/workflows/main.yml)
 
-Template for an empty project that has alot of heavy resource features turned off by default. Lumen is off, Nanite limited, shadows and other features set at low scalibility
+Player goes to a abandoned island themepark that has went out of bussiness and curious people have been trespassing the grounds to explore the abandoned park.
+Something strange is happening in this island however as it has been reported that previous explorers have gone missing.
