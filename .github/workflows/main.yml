@@ -29,4 +29,3 @@ jobs:
         UPROJECT_PATH: '${{github.workspace}}/${{github.event.repository.name}}.uproject'
         BUILD_CONFIG: 'Development'
         PLATFORM: 'Win64'
-        # Add other optional parameters as needed
