@@ -53,9 +53,7 @@ Engine/Programs/UnrealBuildTool/*
 *.xcodeproj
 *.xcworkspace
 
-# Ignote sentry
-**/sentry.properties
-**/.sentry-native
+# Binary Files
 
 # Ignore JetBrain's IDE folders
 .idea/
